@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 Editing the file directly from the Git Hub
 
 It now includes steps for GitHub.
+
+Just added a new line.
